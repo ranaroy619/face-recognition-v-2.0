@@ -1,0 +1,8 @@
+Python Version - 3.7
+
+Need Packages :
+1.cmake
+2.cvzone
+3.dlib
+4.face-recognition
+5.oepncv-python 4.5.4.60
